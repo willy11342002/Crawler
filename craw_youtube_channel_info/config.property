@@ -1,0 +1,7 @@
+[BASE]
+
+# 針對瀑布流網站往下滑動設定滑動上限(-1則無限制)
+max = -1 
+
+[CHANNEL]
+哈寵誌 = https://www.youtube.com/user/hotpets2008/videos
